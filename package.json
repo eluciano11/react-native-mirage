@@ -24,7 +24,6 @@
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.56.0",
     "miragejs": "https://github.com/eluciano11/miragejs",
-    "react-native-browser-polyfill": "^0.1.2",
     "react-test-renderer": "16.9.0",
     "xmlhttprequest": "^1.8.0"
   }

@@ -3,6 +3,8 @@ import {SafeAreaView, View, Text} from 'react-native';
 
 // import {makeServer} from './server';
 
+// if (typeof global.self === "undefined") global.self = global;
+
 // makeServer();
 
 const App = () => {
