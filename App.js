@@ -1,6 +1,10 @@
 import React, {useEffect, useState} from 'react';
 import {SafeAreaView, View, Text} from 'react-native';
 
+// import {makeServer} from './server';
+
+// makeServer();
+
 const App = () => {
   let [users, setUsers] = useState([]);
   let [serverError, setServerError] = useState();
